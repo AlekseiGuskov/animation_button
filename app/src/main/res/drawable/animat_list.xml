@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/set_progress_first"
+          android:duration="2000"/>
+    <item
+            android:drawable="@drawable/sel_progress_bar"
+            android:duration="5000"/>
+    <item
+            android:drawable="@drawable/sel_progr_bar_stat"
+            android:duration="5000"/>
+</animation-list>
